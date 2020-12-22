@@ -1,4 +1,4 @@
-
+## Data Analysis of Boston Housing prices
 ## Abstract 
 
 Housing values are one of the standard metrics used by many shareholders in the economy. The median values help homebuyers and insurance companies to make more efficient choices. There are many aspects that cause fluctuation of housing values. To detect what factors contribute to the housing values, we attempt to create a model with elements chosen through extensive data analysis. We use R for statistical analysis to find a relationship between the median housing values and the considered factors in the model.
