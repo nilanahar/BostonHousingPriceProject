@@ -34,10 +34,6 @@ To check if any suspicious/outlier observation.
 To check if the outliers are influential. 
 
 ## Authors
-Shamsun Nila 
-Ying Xie
-Mayuri Kakkar
-Li Monique 
-Chengli Yang 	
+Shamsun Nila, Ying Xie, Mayuri Kakkar, Li Monique, Chengli Yang 	
 
 This project was made under STAC67H3: Regression Analysis under supervision of Dr. Caren Hasler in University of Toronto Scarborough, in 2019. 
