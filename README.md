@@ -40,4 +40,4 @@ Mayuri Kakkar
 Li Monique 
 Chengli Yang 	
 
-This project was made for STAC67H3: Regression Analysis under University of Toronto Scarborough, in 2019. 
+This project was made under STAC67H3: Regression Analysis under supervision of Dr. Caren Hasler in University of Toronto Scarborough, in 2019. 
