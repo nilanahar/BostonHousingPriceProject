@@ -11,7 +11,6 @@ Requires understanding of statistical data analysis, linear regression, data mod
 
 ## Getting Started
 Save the data set housing.proper.csv in your local directory. 
-If you do not have R installed on your computer, you can use RCloud (https://rstudio.com/) for free. 
 Save all the necessary files in the same directory and run R.
 
 ## Tests:
